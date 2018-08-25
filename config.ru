@@ -1,3 +1,3 @@
-require_relative 'app'
+require_relative 'handler'
 
-run SimpleFramework.app
+run Handler.new
